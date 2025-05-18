@@ -435,7 +435,7 @@ Execute the programs and publish them.
 ~~~
 
 ## OUTPUT
-![Screenshot 2025-05-18 190553](https://github.com/user-attachments/assets/02e78d83-5e8c-478b-97aa-a00cbf612cd2)
+![Screenshot 2025-05-18 190553](https://github.com/user-attachments/assets/a082d6b1-f636-4bf7-8a65-9aec5eb8f7ca)
 ![392890086-802e133e-24bc-4f30-93de-f67f2e0798bd](https://github.com/user-attachments/assets/34280dfe-d50d-4c3b-ae39-6b29ae8070d6)
 ![392890188-cbd42d67-0458-4dcf-a616-56f74a170d6e](https://github.com/user-attachments/assets/bbb35f22-cb41-4b68-aa64-6484d21ca613)
 ![392890499-18c8866f-5d4a-49ad-9941-7bb4369bb42e](https://github.com/user-attachments/assets/3a5da22b-e5c8-4c1b-aa22-ab00ca906719)
